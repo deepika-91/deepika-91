@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development, app development.
 - 🌱 I’m currently learning HTML 
 - 💞️ I’m looking to collaborate on new project ideas regarding web development 
-- 📫 How to reach me through LinkedIn 
+- 📫 How to reach me through LinkedIn: www.linkedin.com/in/deepika-cherukuru-93162b295
 
 <!---
 deepika-91/deepika-91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
