@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deepika-91
 - 👀 I’m interested in web development, app development.
-- 🌱 I’m currently learning HTML 
+- 🌱 I’m currently learning openCV
 - 💞️ I’m looking to collaborate on new project ideas regarding web development 
 - 📫 How to reach me through LinkedIn: www.linkedin.com/in/deepika-cherukuru-93162b295
 
